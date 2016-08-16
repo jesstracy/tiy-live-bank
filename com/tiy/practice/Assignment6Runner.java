@@ -18,6 +18,9 @@ public class Assignment6Runner {
     }
 
     public static void main(String[] args) {
+        // Changing something to test
+        System.out.println("Changed something!!");
+        
         System.out.println("Running ... with " + args.length + " arguments");
 
         String commandLineBankName = "Default Bank Name"; 
